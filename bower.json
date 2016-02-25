@@ -1,0 +1,18 @@
+{
+  "name": "bowerinit",
+  "authors": [
+    "vovhiklev1main <responsibilities@i.ua>"
+  ],
+  "description": "bowerfiles",
+  "main": "bower.json",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular-ui-router": "~0.2.18",
+    "angular": "~1.5.0",
+    "angular-ui": "~0.4.0"
+  }
+}
